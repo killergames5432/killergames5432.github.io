@@ -2,26 +2,19 @@ body {
   background-color: black;
 }
 h1{
-
 font-size: 40px;
-
 }
-
 img {
   width: 40%;
   margin: auto;
- 
 }
-
 .header {
   color: red;
-
 }
 .one {
 color: white;
 border: 2px solid; 
 }
-
 .pic{
   padding-left: 33%
 }
@@ -30,4 +23,16 @@ h4 {padding-left:70%}
 .two {
   color: white;
   border: 2px solid;
+}
+.service {
+  color: red;
+}
+.reserves {
+color: yellow;
+}
+.potato {
+  color: orange;
+}
+.place{
+  color: crimson;
 }
